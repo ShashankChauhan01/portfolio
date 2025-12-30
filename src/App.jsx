@@ -2810,7 +2810,7 @@ const Timeline = () => {
     { startYear: '2023', endYear: '2024', label: 'CData Software - Software Engineer II', status: 'complete', color: '#00ff88' },
     { startYear: '2024', endYear: '2026', label: 'Masters in AI - UMich Dearborn', status: 'active', color: '#00d9ff' },
     { startYear: '2025', endYear: 'Present', label: 'DSMRL Research Assistant', status: 'active', color: '#00d9ff' },
-    { startYear: '2026', endYear: 'Future', label: 'PhD Program Target', status: 'pending', color: '#7dd3fc' }
+    // { startYear: '2026', endYear: 'Future', label: 'PhD Program Target', status: 'pending', color: '#7dd3fc' }
   ];
 
   return (
